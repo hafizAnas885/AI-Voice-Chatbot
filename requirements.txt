@@ -1,8 +1,7 @@
-langchain
-langchain-community
-langchain-core
-langchain-google-genai
-streamlit
-streamlit-mic-recorder
-gTTS
-streamlit_TTS
+streamlit==1.21.0
+langchain==0.0.1
+langchain-community==0.0.1
+langchain-core==0.0.1
+langchain-google-genai==0.0.1
+gtts==2.2.3
+streamlit-mic-recorder==0.0.1
