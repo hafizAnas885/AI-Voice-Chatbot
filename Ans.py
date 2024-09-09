@@ -12,7 +12,6 @@ from streamlit_mic_recorder import speech_to_text
 from streamlit_TTS import text_to_speech
 from gtts.lang import tts_langs
 import streamlit as st
-from openai import OpenAI
 import os
 
 st.set_page_config(page_title="AI Voice Assistant", page_icon="🤖")
