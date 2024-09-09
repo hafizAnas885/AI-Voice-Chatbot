@@ -6,5 +6,3 @@ streamlit
 streamlit-mic-recorder
 gTTS
 streamlit_TTS
-python-dotenv
-openai
