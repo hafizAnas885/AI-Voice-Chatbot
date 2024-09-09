@@ -1,8 +1,7 @@
 streamlit==1.38.0
-langchain==0.0.1
-langchain-core==0.0.1
+langchain>=0.0.12
+langchain-core>=0.0.12
 langchain-google-genai==0.0.1
 streamlit-mic-recorder==0.0.1
 streamlit-TTS==0.0.1
 gtts==2.2.4
-
